@@ -1,3 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Arvo:wght@400;700&family=Cookie&family=Roboto:wght@400;700&display=swap');
+
+/*font-family: 'Arvo', serif;
+font-family: 'Cookie', cursive;
+font-family: 'Roboto', sans-serif;
+*/
+
 #map{
     height: 500px;
     width: 500px;
@@ -15,7 +22,7 @@
 }
 
 .bannertext {
-    font-family: Arvo;
+    *font-family: 'Arvo', serif;
     font-weight: bold;
     font-size: 145px;
     color: #599CEB;
@@ -25,7 +32,7 @@
 }
 
 .subtext {
-    font-family: Cookie;
+    font-family: 'Cookie', cursive;
     font-style: normal;
     font-weight: 500;
     font-size: 28px;
